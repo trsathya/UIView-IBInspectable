@@ -6,6 +6,7 @@ Pod::Spec.new do |s|
   Small Swift extension to allow CALayer properties to be changed in Interface Builder
                    DESC
   s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.homepage     = "https://github.com/trsathya/UIView-IBInspectable.git"
   s.author       = "Rich Hodgkins"
   s.source       = { :git => "https://github.com/trsathya/UIView-IBInspectable.git" }
   s.source_files = "*.swift"
